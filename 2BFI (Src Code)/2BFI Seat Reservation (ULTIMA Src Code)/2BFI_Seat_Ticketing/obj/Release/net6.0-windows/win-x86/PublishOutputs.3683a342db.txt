@@ -1,0 +1,8 @@
+C:\Users\altre\Documents\2BFI_Seat_Ticketing.pdb
+C:\Users\altre\Documents\D3DCompiler_47_cor3.dll
+C:\Users\altre\Documents\PenImc_cor3.dll
+C:\Users\altre\Documents\PresentationNative_cor3.dll
+C:\Users\altre\Documents\vcruntime140_cor3.dll
+C:\Users\altre\Documents\wpfgfx_cor3.dll
+C:\Users\altre\Documents\SQLite.Interop.dll
+C:\Users\altre\Documents\2BFI_Seat_Ticketing.exe

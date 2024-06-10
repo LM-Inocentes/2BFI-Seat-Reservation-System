@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vU1DBozgMObSjoQNFQbXZ1xTRbyVG3jBrvoIXXGfwcWiOCvU8JfkoWG5Dt2rMBafJw7nMOhxa4pFYeNKX194Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\altre\\Downloads\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI_Seat_Ticketing\\2BFI_Seat_Ticketing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\altre\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\altre\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512"
+  ],
+  "logs": []
+}

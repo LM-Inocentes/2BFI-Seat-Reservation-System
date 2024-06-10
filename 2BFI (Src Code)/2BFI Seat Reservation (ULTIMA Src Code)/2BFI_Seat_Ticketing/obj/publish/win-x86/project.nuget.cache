@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pVxIxL/AwNP6SPtR8brmC6TRzcEJP2lZCPZQW9H6xtBZgqBPIyTJtYaNCZ9sMATYHeptA6DFQwNLGHUavWVXOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\altre\\Downloads\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI_Seat_Ticketing\\2BFI_Seat_Ticketing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\altre\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\altre\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "C:\\Users\\altre\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.7\\microsoft.netcore.app.runtime.win-x86.6.0.7.nupkg.sha512",
+    "C:\\Users\\altre\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.7.nupkg.sha512",
+    "C:\\Users\\altre\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.7\\microsoft.aspnetcore.app.runtime.win-x86.6.0.7.nupkg.sha512",
+    "C:\\Users\\altre\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.7\\microsoft.netcore.app.crossgen2.win-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

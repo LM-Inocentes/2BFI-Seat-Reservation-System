@@ -1,0 +1,90 @@
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.csproj.AssemblyReference.cache
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.AssignPage.resources
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.CreatePage.resources
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.EditInfoDetails.resources
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.EditInfoDetailsGroup.resources
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.InfoPage.resources
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.LoadPage.resources
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.Properties.Resources.resources
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.TitleScreen.resources
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.csproj.GenerateResource.cache
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.AssemblyInfoInputs.cache
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.AssemblyInfo.cs
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.csproj.CoreCompileInputs.cache
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.exe
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.deps.json
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.runtimeconfig.json
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.dll
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.pdb
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\System.Data.SQLite.dll
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.csproj.CopyComplete
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.dll
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\refint\2BFI_Seat_Ticketing.dll
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.pdb
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.genruntimeconfig.cache
+C:\Users\altre\Downloads\2BFI_FINAL PRODUCT (INCREMENT 3)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\ref\2BFI_Seat_Ticketing.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.exe
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.deps.json
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.runtimeconfig.json
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.pdb
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\System.Data.SQLite.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.csproj.AssemblyReference.cache
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.AssignPage.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.CreatePage.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.EditInfoDetails.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.EditInfoDetailsGroup.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.InfoPage.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.LoadPage.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.Properties.Resources.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.TitleScreen.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.csproj.GenerateResource.cache
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.AssemblyInfoInputs.cache
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.AssemblyInfo.cs
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.csproj.CoreCompileInputs.cache
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.csproj.CopyComplete
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\refint\2BFI_Seat_Ticketing.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.pdb
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.genruntimeconfig.cache
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\ref\2BFI_Seat_Ticketing.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.exe
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.deps.json
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.runtimeconfig.json
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\2BFI_Seat_Ticketing.pdb
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\System.Data.SQLite.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\bin\Release\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.csproj.AssemblyReference.cache
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.AssignPage.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.CreatePage.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.EditInfoDetails.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.EditInfoDetailsGroup.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.InfoPage.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.LoadPage.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.Properties.Resources.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\_2BFI_Seat_Ticketing.TitleScreen.resources
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.csproj.GenerateResource.cache
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.AssemblyInfoInputs.cache
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.AssemblyInfo.cs
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.csproj.CoreCompileInputs.cache
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.csproj.CopyComplete
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\refint\2BFI_Seat_Ticketing.dll
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.pdb
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\2BFI_Seat_Ticketing.genruntimeconfig.cache
+C:\Users\altre\Downloads\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI Seat Ticketing (ULTIMA Src Code)\2BFI_Seat_Ticketing\obj\Release\net6.0-windows\ref\2BFI_Seat_Ticketing.dll

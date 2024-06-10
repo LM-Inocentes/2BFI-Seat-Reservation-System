@@ -1,0 +1,8 @@
+C:\Users\altre\Documents\_2BFI Seat Ticketing (ULTIMA Release)\2BFI_Seat_Ticketing.pdb
+C:\Users\altre\Documents\_2BFI Seat Ticketing (ULTIMA Release)\D3DCompiler_47_cor3.dll
+C:\Users\altre\Documents\_2BFI Seat Ticketing (ULTIMA Release)\PenImc_cor3.dll
+C:\Users\altre\Documents\_2BFI Seat Ticketing (ULTIMA Release)\PresentationNative_cor3.dll
+C:\Users\altre\Documents\_2BFI Seat Ticketing (ULTIMA Release)\vcruntime140_cor3.dll
+C:\Users\altre\Documents\_2BFI Seat Ticketing (ULTIMA Release)\wpfgfx_cor3.dll
+C:\Users\altre\Documents\_2BFI Seat Ticketing (ULTIMA Release)\SQLite.Interop.dll
+C:\Users\altre\Documents\_2BFI Seat Ticketing (ULTIMA Release)\2BFI_Seat_Ticketing.exe

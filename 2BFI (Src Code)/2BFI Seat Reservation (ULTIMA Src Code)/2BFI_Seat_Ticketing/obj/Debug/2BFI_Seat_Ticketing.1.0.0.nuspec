@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>2BFI_Seat_Ticketing</id>
+    <version>1.0.0</version>
+    <authors>2BFI_Seat_Ticketing</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\josem\source\repos\2BFI_Seat_Ticketing\2BFI_Seat_Ticketing\bin\Debug\net6.0-windows\2BFI_Seat_Ticketing.runtimeconfig.json" target="lib\net6.0-windows7.0\2BFI_Seat_Ticketing.runtimeconfig.json" />
+    <file src="C:\Users\josem\source\repos\2BFI_Seat_Ticketing\2BFI_Seat_Ticketing\bin\Debug\net6.0-windows\2BFI_Seat_Ticketing.dll" target="lib\net6.0-windows7.0\2BFI_Seat_Ticketing.dll" />
+  </files>
+</package>

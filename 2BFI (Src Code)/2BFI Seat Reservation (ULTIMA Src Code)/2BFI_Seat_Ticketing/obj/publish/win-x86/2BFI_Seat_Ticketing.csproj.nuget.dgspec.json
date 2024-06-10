@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\altre\\Downloads\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI_Seat_Ticketing\\2BFI_Seat_Ticketing.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\altre\\Downloads\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI_Seat_Ticketing\\2BFI_Seat_Ticketing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\altre\\Downloads\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI_Seat_Ticketing\\2BFI_Seat_Ticketing.csproj",
+        "projectName": "2BFI_Seat_Ticketing",
+        "projectPath": "C:\\Users\\altre\\Downloads\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI_Seat_Ticketing\\2BFI_Seat_Ticketing.csproj",
+        "packagesPath": "C:\\Users\\altre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\altre\\Downloads\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI Seat Ticketing (ULTIMA Src Code)\\2BFI_Seat_Ticketing\\obj\\publish\\win-x86\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\altre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[6.0.7, 6.0.7]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[6.0.7, 6.0.7]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[6.0.7, 6.0.7]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[6.0.7, 6.0.7]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\altre\Downloads\2BFI Seat Ticketing %28ULTIMA Src Code%29\2BFI Seat Ticketing %28ULTIMA Src Code%29\2BFI Seat Ticketing %28ULTIMA Src Code%29\2BFI_Seat_Ticketing\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="EditInfoDetailsGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InfoPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssignPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreatePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditInfoDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TitleScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
